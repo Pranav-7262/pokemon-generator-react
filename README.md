@@ -4,7 +4,7 @@ A simple and fun Pokémon Generator built with **React**, **Axios**, and the **P
 
 ## 🚀 Live Demo
 
-🔗 [Check it out here](https://your-deployed-url.com) <!-- Replace with your hosted link -->
+🔗 [Check it out here](https://pokemonbypranav.netlify.app/) 
 
 ---
 
